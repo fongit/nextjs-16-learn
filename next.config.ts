@@ -15,6 +15,11 @@ const nextConfig: NextConfig = {
 				protocol: 'https',
 				port: '',
 			},
+			{
+				hostname: 'useful-dolphin-563.convex.cloud',
+				protocol: 'https',
+				port: '',
+			},
 		],
 	},
 	experimental: {
